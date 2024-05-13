@@ -40,9 +40,9 @@ namespace Monogame_3___Animation
             tribbleGreyRectangle = new Rectangle(100, 30, 75, 75);
             tribbleOrangeRectangle = new Rectangle(40, 400, 100, 100);
             tribbleBrownSpeed = new Vector2(5,2);
-            tribbleCreamSpeed = new Vector2(10,1);
+            tribbleCreamSpeed = new Vector2(10,0);
             tribbleGreySpeed = new Vector2(9,1);
-            tribbleOrangeSpeed = new Vector2(2,10);
+            tribbleOrangeSpeed = new Vector2(0,10);
             base.Initialize();
         }
 
